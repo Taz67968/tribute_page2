@@ -17,3 +17,13 @@ ul{
     text-align: left;
     line-height: 1.6;
 }
+h2,h3{
+    text-align: center;
+} 
+img{
+    background-color: aliceblue;
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    height: 40%;
+}
