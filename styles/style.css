@@ -27,3 +27,24 @@ img{
     width: 50%;
     height: 40%;
 }
+body{
+    background-color:white;
+}
+button.climate{
+    color: aquamarine;
+}
+button.head{
+    color: beige;
+}
+button.Welcome{
+    color: blanchedalmond;
+
+}
+a{
+    background-color: rgb(26, 19, 11);
+}
+article{
+    font-size: large;
+    padding-bottom: 1cm;
+    padding-top: 0.5cm;
+}
